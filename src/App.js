@@ -59,7 +59,7 @@ class App extends Component {
           <textarea placeholder="Conteúdo" name="conteudo" onChange={this.aoEscrever}>
           </textarea>
 
-          <button onClick={this.chacoalho}>Enviar</button>
+          <button onClick={this.enviar}>Enviar</button>
         </section>
 
 
